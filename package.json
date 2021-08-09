@@ -13,6 +13,9 @@
     "react-tilt": "^0.1.4",
     "web-vitals": "^1.1.2"
   },
+  "engines": {
+    "node": "v16.5.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
